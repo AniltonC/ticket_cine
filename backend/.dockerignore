@@ -1,0 +1,23 @@
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.egg-info
+.mypy_cache
+.coverage
+htmlcov
+.ruff_cache
+
+# Virtual environment
+.venv
+
+# Tests
+tests/
+
+# Local config
+.env
+*.local
+
+# Docs
+*.md
